@@ -1,0 +1,266 @@
+Rank,Player,Team,Positions,Yahoo,ESPN,AVG
+1.0,Nikola Jokic,DEN,C,2.0,1.0,1.5
+2.0,Victor Wembanyama,SAS,C OUT,1.0,3.0,2.0
+3.0,Luka Doncic,LAL,"PG,SG",3.0,2.0,2.5
+4.0,Shai Gilgeous-Alexander,OKC,PG,4.0,4.0,4.0
+5.0,Giannis Antetokounmpo,MIL,"PF,C",5.0,5.0,5.0
+6.0,Tyrese Haliburton,IND,"PG,SG",7.0,7.0,7.0
+7.0,Anthony Davis,DAL,"PF,C DTD",6.0,10.0,8.0
+8.0,Jayson Tatum,BOS,"SF,PF",8.0,9.0,8.5
+9.0,Anthony Edwards,MIN,"SG,SF",9.0,8.0,8.5
+10.0,Domantas Sabonis,SAC,"C,PF",13.0,6.0,9.5
+11.0,Joel Embiid,PHI,C OUT,10.0,11.0,10.5
+12.0,Trae Young,ATL,PG DTD,11.0,16.0,13.5
+13.0,Donovan Mitchell,CLE,"PG,SG",15.0,15.0,15.0
+14.0,Jalen Brunson,NYK,PG,19.0,14.0,16.5
+15.0,Stephen Curry,GSW,"PG,SG OUT",12.0,22.0,17.0
+16.0,Kevin Durant,PHO,"SF,PF OUT",17.0,17.0,17.0
+17.0,LeBron James,LAL,"SF,PF",23.0,12.0,17.5
+18.0,Scottie Barnes,TOR,"SG,SF,PF DTD",18.0,19.0,18.5
+19.0,Devin Booker,PHO,"PG,SG",20.0,18.0,19.0
+20.0,James Harden,LAC,"PG,SG",14.0,27.0,20.5
+21.0,Karl-Anthony Towns,NYK,"PF,C",21.0,20.0,20.5
+22.0,Chet Holmgren,OKC,"PF,C",16.0,29.0,22.5
+23.0,De'Aaron Fox,SAS,PG OUT,25.0,21.0,23.0
+24.0,Ja Morant,MEM,PG DTD,34.0,13.0,23.5
+25.0,LaMelo Ball,CHA,"PG,SG OUT",22.0,25.0,23.5
+26.0,Tyrese Maxey,PHI,"PG,SG OUT",27.0,23.0,25.0
+27.0,Damian Lillard,MIL,PG OUT,24.0,30.0,27.0
+28.0,Alperen Sengun,HOU,C,28.0,28.0,28.0
+29.0,Paolo Banchero,ORL,"SF,PF",33.0,24.0,28.5
+30.0,Kyrie Irving,DAL,"PG,SG OUT",26.0,32.0,29.0
+31.0,Cade Cunningham,DET,"PG,SG",32.0,31.0,31.5
+32.0,Lauri Markkanen,UTH,"SF,PF OUT",29.0,36.0,32.5
+33.0,Bam Adebayo,MIA,"C,PF",30.0,35.0,32.5
+34.0,Dejounte Murray,NOR,"PG,SG OUT",35.0,38.0,36.5
+35.0,Pascal Siakam,IND,"PF,SF",48.0,26.0,37.0
+36.0,Jaylen Brown,BOS,"SG,SF",40.0,34.0,37.0
+37.0,Paul George,PHI,"SG,SF,PF OUT",31.0,44.0,37.5
+38.0,Jalen Williams,OKC,"C,PF,SF,SG",36.0,43.0,39.5
+39.0,Zion Williamson,NOR,"PF,C OUT",47.0,33.0,40.0
+40.0,Desmond Bane,MEM,"SG,SF",42.0,40.0,41.0
+41.0,Evan Mobley,CLE,"PF,C DTD",39.0,50.0,44.5
+42.0,Jimmy Butler III,GSW,"PF,SF,SG",44.0,46.0,45.0
+43.0,Rudy Gobert,MIN,C,46.0,45.0,45.5
+44.0,DeMar DeRozan,SAC,"PF,SF",55.0,37.0,46.0
+45.0,Jalen Johnson,ATL,PF OUT,41.0,51.0,46.0
+46.0,Jaren Jackson Jr.,MEM,"PF,C",37.0,56.0,46.5
+47.0,Jamal Murray,DEN,"PG,SG",51.0,42.0,46.5
+48.0,Nikola Vucevic,CHI,"PF,C",57.0,39.0,48.0
+49.0,Myles Turner,IND,C,43.0,53.0,48.0
+50.0,Fred VanVleet,HOU,PG,38.0,59.0,48.5
+51.0,Franz Wagner,ORL,"PF,SF",45.0,54.0,49.5
+52.0,Mikal Bridges,NYK,"SG,SF,PF",56.0,49.0,52.5
+53.0,Miles Bridges,CHA,"SF,PF",58.0,48.0,53.0
+54.0,Julius Randle,MIN,PF,63.0,47.0,55.0
+55.0,Derrick White,BOS,"PG,SG",49.0,64.0,56.5
+56.0,Immanuel Quickley,TOR,"PG,SG",53.0,60.0,56.5
+57.0,Jarrett Allen,CLE,C,52.0,63.0,57.5
+58.0,Kawhi Leonard,LAC,"SG,SF,PF DTD",50.0,66.0,58.0
+59.0,Zach LaVine,SAC,"SG,SF",61.0,58.0,59.5
+60.0,D'Angelo Russell,BKN,"PG,SG",71.0,55.0,63.0
+61.0,Darius Garland,CLE,PG DTD,60.0,67.0,63.5
+62.0,Cam Thomas,BKN,"SF,SG OUT",68.0,62.0,65.0
+63.0,Brandon Miller,CHA,"SG,SF OUT",62.0,68.0,65.0
+64.0,Jalen Duren,DET,C,54.0,78.0,66.0
+65.0,Jalen Green,HOU,"PG,SG",92.0,41.0,66.5
+66.0,Coby White,CHI,"PG,SG",84.0,52.0,68.0
+67.0,Brandon Ingram,TOR,"SG,SF,PF OUT",67.0,69.0,68.0
+68.0,Anfernee Simons,POR,"PG,SG DTD",76.0,61.0,68.5
+69.0,Kyle Kuzma,MIL,"SF,PF",81.0,57.0,69.0
+70.0,Nic Claxton,BKN,C,64.0,74.0,69.0
+71.0,Jrue Holiday,BOS,"PG,SG",75.0,65.0,70.0
+72.0,Michael Porter Jr.,DEN,"SF,PF",70.0,71.0,70.5
+73.0,Josh Giddey,CHI,"PG,SG,SF DTD",66.0,77.0,71.5
+74.0,Bradley Beal,PHO,"PG,SF,SG",69.0,76.0,72.5
+75.0,Tobias Harris,DET,"SF,PF",65.0,84.0,74.5
+76.0,CJ McCollum,NOR,"PG,SG OUT",85.0,70.0,77.5
+77.0,Tyler Herro,MIA,"PG,SG",74.0,81.0,77.5
+78.0,Jonas Valanciunas,SAC,C,87.0,72.0,79.5
+79.0,Deandre Ayton,POR,C,59.0,101.0,80.0
+80.0,Austin Reaves,LAL,"PG,SG,SF",86.0,75.0,80.5
+81.0,Devin Vassell,SAS,"SG,SF",80.0,82.0,81.0
+82.0,Keegan Murray,SAC,"SF,PF",78.0,88.0,83.0
+83.0,Brook Lopez,MIL,C,73.0,98.0,85.5
+84.0,Jusuf Nurkic,CHA,C,82.0,89.0,85.5
+85.0,Kristaps Porzingis,BOS,"PF,C",103.0,73.0,88.0
+86.0,Collin Sexton,UTH,"PG,SG",94.0,85.0,89.5
+87.0,Bogdan Bogdanovic,LAC,"SG,SF",89.0,91.0,90.0
+88.0,Jabari Smith Jr.,HOU,"PF,C",77.0,106.0,91.5
+89.0,Daniel Gafford,DAL,"PF,C",106.0,79.0,92.5
+90.0,Jonathan Kuminga,GSW,"PF,SF",91.0,95.0,93.0
+91.0,Zach Edey,MEM,C,100.0,87.0,93.5
+92.0,OG Anunoby,NYK,"SF,PF",79.0,109.0,94.0
+93.0,Klay Thompson,DAL,"SG,SF",109.0,80.0,94.5
+94.0,Isaiah Hartenstein,OKC,C,72.0,118.0,95.0
+95.0,Jordan Poole,WAS,"PG,SG",83.0,108.0,95.5
+96.0,Naz Reid,MIN,"PF,C",96.0,96.0,96.0
+97.0,Terry Rozier,MIA,"PG,SG OUT",107.0,90.0,98.5
+98.0,Jakob Poeltl,TOR,C DTD,93.0,105.0,99.0
+99.0,Mark Williams,CHA,C G-League,98.0,102.0,100.0
+100.0,RJ Barrett,TOR,"SG,SF,PF",110.0,92.0,101.0
+101.0,Walker Kessler,UTH,C OUT,90.0,114.0,102.0
+102.0,Amen Thompson,HOU,"PF,SF,SG",120.0,86.0,103.0
+103.0,Donte DiVincenzo,MIN,"PG,SF,SG",112.0,94.0,103.0
+104.0,Buddy Hield,GSW,"SG,SF",126.0,83.0,104.5
+105.0,Josh Hart,NYK,"SG,SF,PF",117.0,93.0,105.0
+106.0,Aaron Gordon,DEN,"PF,C",115.0,100.0,107.5
+107.0,Clint Capela,ATL,C OUT,104.0,112.0,108.0
+108.0,Draymond Green,GSW,"PF,C",99.0,119.0,109.0
+109.0,Ivica Zubac,LAC,C DTD,88.0,131.0,109.5
+110.0,Khris Middleton,WAS,"SG,SF OUT",114.0,113.0,113.5
+111.0,Trayce Jackson-Davis,GSW,"PF,C G-League",125.0,104.0,114.5
+112.0,Chris Paul,SAS,PG,105.0,124.0,114.5
+113.0,Jerami Grant,POR,"SF,PF DTD",113.0,116.0,114.5
+114.0,Deni Avdija,POR,"SF,PF DTD",124.0,107.0,115.5
+115.0,Jaime Jaquez Jr.,MIA,"SF,SG",134.0,99.0,116.5
+116.0,John Collins,UTH,"PF,C",108.0,125.0,116.5
+117.0,Herbert Jones,NOR,"SF,PF OUT",95.0,139.0,117.0
+118.0,Alex Caruso,OKC,"PG,SG,SF",101.0,135.0,118.0
+119.0,Tyus Jones,PHO,PG,116.0,120.0,118.0
+120.0,Bobby Portis Jr.,MIL,"PF,C",119.0,117.0,118.0
+121.0,Jalen Suggs,ORL,"PG,SG OUT",102.0,138.0,120.0
+122.0,Dereck Lively II,DAL,C,111.0,130.0,120.5
+123.0,Grayson Allen,PHO,"PG,SG,SF",142.0,103.0,122.5
+124.0,Brandin Podziemski,GSW,"PG,SG",118.0,129.0,123.5
+125.0,Russell Westbrook III,DEN,PG,151.0,97.0,124.0
+126.0,Trey Murphy III,NOR,"PF,SF,SG OUT",97.0,151.0,124.0
+127.0,P.J. Washington Jr.,DAL,PF,135.0,115.0,125.0
+128.0,Scoot Henderson,POR,PG,129.0,122.0,125.5
+129.0,Jaden Ivey,DET,"PG,SG",130.0,123.0,126.5
+130.0,Malik Monk,SAC,"PG,SF,SG",127.0,133.0,130.0
+131.0,Cameron Johnson,BKN,"SF,PF OUT",123.0,140.0,131.5
+132.0,Mike Conley,MIN,PG,132.0,132.0,132.0
+133.0,Malcolm Brogdon,WAS,"PG,SG OUT",156.0,110.0,133.0
+134.0,Marcus Smart,WAS,"PG,SG",128.0,141.0,134.5
+135.0,Dennis Schroder,DET,PG,149.0,121.0,135.0
+136.0,Ausar Thompson,DET,"PF,SF",145.0,128.0,136.5
+137.0,Keyonte George,UTH,"PG,SG",122.0,155.0,138.5
+138.0,Alex Sarr,WAS,"C,PF",133.0,144.0,138.5
+139.0,Reed Sheppard,HOU,SG,167.0,111.0,139.0
+140.0,Bronny James,LAL,"PG,SG G-League",141.0,137.0,139.0
+141.0,Dalton Knecht,LAL,"SG,SF",139.0,146.0,142.5
+142.0,Ben Simmons,LAC,"PG,PF",146.0,147.0,146.5
+143.0,Al Horford,BOS,"PF,C",137.0,157.0,147.0
+144.0,Zaccharie Risacher,ATL,"PF,SF",154.0,142.0,148.0
+145.0,Jared McCain,PHI,"PG,SG OUT",144.0,154.0,149.0
+146.0,Jordan Clarkson,UTH,"SG,SF OUT",148.0,150.0,149.0
+147.0,Andre Drummond,PHI,C,147.0,152.0,149.5
+148.0,Andrew Wiggins,MIA,"SF,PF",152.0,149.0,150.5
+149.0,Stephon Castle,SAS,"PG,SG",175.0,127.0,151.0
+150.0,Rob Dillingham,MIN,PG OUT,160.0,143.0,151.5
+151.0,Lonzo Ball,CHI,PG DTD,163.0,148.0,155.5
+152.0,Kelly Oubre Jr.,PHI,"SF,SG",179.0,134.0,156.5
+153.0,Donovan Clingan,POR,C,181.0,136.0,158.5
+154.0,Ayo Dosunmu,CHI,"PG,SG,SF OUT",157.0,160.0,158.5
+155.0,Onyeka Okongwu,ATL,"PF,C",121.0,,121.0
+156.0,Caris LeVert,ATL,"SG,SF",210.0,126.0,168.0
+157.0,Shaedon Sharpe,POR,"SG,SF",170.0,161.0,165.5
+158.0,Norman Powell,LAC,"SG,SF DTD",131.0,,131.0
+159.0,Jeremy Sochan,SAS,"PF,SF DTD",176.0,158.0,167.0
+160.0,Kevon Looney,GSW,"PF,C",136.0,,136.0
+161.0,Keldon Johnson,SAS,"SG,SF,PF",193.0,145.0,169.0
+162.0,Rui Hachimura,LAL,"SF,PF",138.0,,138.0
+163.0,Aaron Nesmith,IND,"SF,PF",140.0,,140.0
+164.0,Bennedict Mathurin,IND,"SG,SF",188.0,153.0,170.5
+165.0,Taylor Hendricks,UTH,"SF,PF OUT",143.0,,143.0
+166.0,Tim Hardaway Jr.,DET,"SG,SF",150.0,,150.0
+167.0,Luguentz Dort,OKC,"SG,SF",153.0,,153.0
+168.0,Dillon Brooks,HOU,"SG,SF",155.0,,155.0
+169.0,Seth Curry,CHA,"PG,SG",,156.0,156.0
+170.0,Steven Adams,HOU,C,158.0,,158.0
+171.0,Thanasis Antetokounmpo,FA,"SF,PF FA",,159.0,159.0
+172.0,Moritz Wagner,ORL,"PF,C OUT",159.0,,159.0
+173.0,Moses Moody,GSW,"SG,SF",161.0,,161.0
+174.0,Kentavious Caldwell-Pope,ORL,"SG,SF",162.0,,162.0
+175.0,Bol Bol,PHO,"PF,C",,162.0,162.0
+176.0,Jared Butler,PHI,"PG,SG",,163.0,163.0
+177.0,Derrick Rose,FA,PG RET,,164.0,164.0
+178.0,Obi Toppin,IND,PF,164.0,,164.0
+179.0,Mitchell Robinson,NYK,C,165.0,,165.0
+180.0,Davion Mitchell,MIA,"PG,SG",,165.0,165.0
+181.0,Kelly Olynyk,NOR,"PF,C",166.0,,166.0
+182.0,Jordan Walsh,BOS,"SG,SF",,166.0,166.0
+183.0,Tristan da Silva,ORL,"SF,PF",,167.0,167.0
+184.0,Mo Bamba,FA,C,,168.0,168.0
+185.0,Andrew Nembhard,IND,"PG,SG",168.0,,168.0
+186.0,Dorian Finney-Smith,LAL,"SF,PF,C",169.0,,169.0
+187.0,Marcus Zegarowski,FA,PG FA,,169.0,169.0
+188.0,Justin Holiday,FA,"SG,SF FA",,170.0,170.0
+189.0,Tre Jones,CHI,PG,171.0,,171.0
+190.0,Anthony Black,ORL,"PG,SG,SF",,171.0,171.0
+191.0,Andre Iguodala,FA,SF FA,,172.0,172.0
+192.0,Jaden McDaniels,MIN,"SF,PF",172.0,,172.0
+193.0,Thaddeus Young,FA,"C,PF FA",,173.0,173.0
+194.0,Yves Missi,NOR,C DTD,173.0,,173.0
+195.0,Cody Zeller,FA,C FA,,174.0,174.0
+196.0,Ron Holland II,DET,SF,174.0,,174.0
+197.0,Terrence Shannon Jr.,MIN,"SG,SF",,175.0,175.0
+198.0,Rade Zagorac,FA,"SF,SG",,176.0,176.0
+199.0,Gradey Dick,TOR,"SG,SF OUT",194.0,183.0,188.5
+200.0,Joe Ingles,MIN,"SG,SF IR",,177.0,177.0
+201.0,De'Anthony Melton,BKN,"PG,SG OUT",177.0,,177.0
+202.0,Blake Griffin,FA,"PF,C RET",,178.0,178.0
+203.0,Wendell Carter Jr.,ORL,C,178.0,,178.0
+204.0,Antonio Reeves,NOR,"PG,SG",,179.0,179.0
+205.0,Wang Zhelin,FA,C NWT,,180.0,180.0
+206.0,Cam Whitmore,HOU,"SF,PF",180.0,,180.0
+207.0,McKinley Wright IV,FA,PG FA,,181.0,181.0
+208.0,Harrison Barnes,SAS,"SF,PF",182.0,,182.0
+209.0,Tyler Kolek,NYK,PG,,182.0,182.0
+210.0,Grant Williams,CHA,"PF,C OUT",183.0,,183.0
+211.0,Robin Lopez,FA,C FA,,184.0,184.0
+212.0,Payton Pritchard,BOS,PG,184.0,,184.0
+213.0,Kyle Anderson,MIA,"SF,PF",185.0,,185.0
+214.0,Mac McClung,ORL,"PG,SG",,185.0,185.0
+215.0,Boban Marjanovic,FA,C FA,,186.0,186.0
+216.0,Kel'el Ware,MIA,C,186.0,,186.0
+217.0,Paul Zipser,FA,"PF,SF",,187.0,187.0
+218.0,Christian Braun,DEN,"SG,SF",187.0,,187.0
+219.0,Tacko Fall,FA,C FA,,188.0,188.0
+220.0,Marvin Bagley III,MEM,"PF,C",189.0,,189.0
+221.0,Leaky Black,FA,"SF,PF FA",,189.0,189.0
+222.0,Cole Anthony,ORL,PG,190.0,,190.0
+223.0,Moses Wright,FA,"C,PF FA",,190.0,190.0
+224.0,Joe Young,FA,"PG,SG FA",,191.0,191.0
+225.0,Nikola Jovic,MIA,"C,PF",191.0,,191.0
+226.0,Zach Collins,CHI,"PF,C",192.0,,192.0
+227.0,Ryan Dunn,PHO,"SF,PF",,192.0,192.0
+228.0,Harrison Ingram,SAS,"SF,PF",,193.0,193.0
+229.0,Baylor Scheierman,BOS,"SG,SF",,194.0,194.0
+230.0,Jaylin Williams,OKC,"PF,C",,195.0,195.0
+231.0,Simone Fontecchio,DET,"SF,PF",195.0,,195.0
+232.0,Bojan Bogdanovic,FA,"SG,SF,PF OUT",196.0,,196.0
+233.0,Robert Woodard II,FA,"PF,SF,SG FA",,196.0,196.0
+234.0,Gary Trent Jr.,MIL,"PG,SG",197.0,,197.0
+235.0,Nikola Topic,OKC,"PG,SG OUT",,197.0,197.0
+236.0,T.J. McConnell,IND,PG,198.0,,198.0
+237.0,Isaiah Mobley,FA,"SF,PF,C FA",,198.0,198.0
+238.0,Dyson Daniels,ATL,"PG,SG",199.0,,199.0
+239.0,JD Davison,BOS,"PG,SG",,199.0,199.0
+240.0,Lindy Waters III,DET,"SG,SF",,200.0,200.0
+241.0,Noah Clowney,BKN,"SF,PF,C OUT",200.0,,200.0
+242.0,Jonathan Isaac,ORL,"SF,PF",201.0,,201.0
+243.0,Kevin Porter Jr.,MIL,"PG,SG",202.0,,202.0
+244.0,Tari Eason,HOU,"SF,PF",203.0,,203.0
+245.0,Jalen Smith,CHI,"PF,C",204.0,,204.0
+246.0,Malik Beasley,DET,SG,205.0,,205.0
+247.0,Terance Mann,ATL,"SG,SF",206.0,,206.0
+248.0,Precious Achiuwa,NYK,"PF,C",207.0,,207.0
+249.0,Tre Mann,CHA,"PG,SG OUT",208.0,,208.0
+250.0,Duncan Robinson,MIA,"SG,SF",209.0,,209.0
+251.0,Max Strus,CLE,"SG,SF",211.0,,211.0
+252.0,Bilal Coulibaly,WAS,"SG,SF OUT",212.0,,212.0
+253.0,Isaiah Stewart,DET,"PF,C DTD",213.0,,213.0
+254.0,Sam Hauser,BOS,"SF,PF DTD",214.0,,214.0
+255.0,Nick Richards,PHO,C G-League,215.0,,215.0
+256.0,Matas Buzelis,CHI,"SF,PF",216.0,,216.0
+257.0,Caleb Martin,DAL,"SG,SF,PF",217.0,,217.0
+258.0,Corey Kispert,WAS,"SG,SF OUT",218.0,,218.0
+259.0,Keon Ellis,SAC,"SG,SF",219.0,,219.0
+260.0,De'Andre Hunter,CLE,"SF,PF DTD",220.0,,220.0
+261.0,Vince Williams Jr.,MEM,"PG,SG,SF,PF",221.0,,221.0
+262.0,Karlo Matkovic,NOR,PF,222.0,,222.0
+263.0,Patrick Williams,CHI,PF,223.0,,223.0
+,,,,,,
+,,,,,,
